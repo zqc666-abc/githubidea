@@ -9,6 +9,6 @@ public class Love {
         System.out.println("今天是什么日子...");
         System.out.println("第一天见面的日子...宇哥,你好");
         System.out.println("第一天见面的日子...大家幸苦了");
-        System.out.println("我是lisi...");
+        System.out.println("我是丽思");
     }
 }
